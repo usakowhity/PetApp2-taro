@@ -1,0 +1,45 @@
+# ============================================
+#  PetApp2 Edition - .gitignore
+#  (usako / taro / kuro 共通)
+# ============================================
+
+# ---- Python cache / build files ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+build/
+dist/
+
+# ---- Portable Python (巨大フォルダ) ----
+portable/
+
+# ---- FFmpeg binaries (巨大フォルダ) ----
+ffmpeg/
+
+# ---- Generated media (実写・AI生成素材) ----
+# ※ ZIP には含めるが GitHub では管理しない
+generated/
+
+# ---- Logs / temp ----
+*.log
+*.tmp
+*.bak
+
+# ---- OS / Editor files ----
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# ---- ZIP / release artifacts ----
+*.zip
+*.7z
+*.tar
+*.gz
+
+# ---- Virtual environments ----
+venv/
+env/

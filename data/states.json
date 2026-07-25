@@ -1,0 +1,111 @@
+{
+  "n1": {
+    "name": "通常",
+    "description": "ペットが平常状態で待機している状態。",
+    "category": "neutral",
+    "thumbnail": "states/n1.png"
+  },
+  "n2": {
+    "name": "お座り",
+    "description": "飼い主の「お座り」や「待て」の命令で、その場で座っている状態。",
+    "category": "neutral",
+    "thumbnail": "states/n2.png"
+  },
+  "n3": {
+    "name": "寝んね",
+    "description": "退屈して、あるいは眠たくなり、寝転んで休んだり眠ったりしている状態。",
+    "category": "neutral",
+    "thumbnail": "states/n3.png"
+  },
+
+  "p1": {
+    "name": "遊んで",
+    "description": "遊び・お散歩など、アクティブな行動をする仕草。",
+    "category": "positive",
+    "thumbnail": "states/p1.png"
+  },
+
+  "p2": {
+    "name": "喜び",
+    "description": "喜びの状態や仕草（種別に応じて詳細動作が異なる）",
+    "description_dog": "嬉しそうにしっぽを大きく振りながら、耳を少し後ろに倒し、目を細め、前足を軽く浮かせて跳ねるように飼い主に向かって、今にも飛びつきそうに走り寄り、喜びを表現する。",
+    "description_cat": "嬉しそうに目を細め、しっぽをピンと立てて先端を小さく揺らし、頭を斜めに傾げながら飼い主に体をすり寄せて甘える仕草。",
+    "description_rabbit": "嬉しそうに頭や耳を振り、体全体をひねるように大きくbinkyジャンプし、喜びを表現する。",
+    "category": "positive",
+    "thumbnail": "states/p2.png"
+  },
+
+  "p3": {
+    "name": "伏せ",
+    "description": "飼い主の「伏せ」の命令で伏せの姿勢をしている状態。",
+    "category": "positive",
+    "thumbnail": "states/p3.png"
+  },
+
+  "p4": {
+    "name": "お手",
+    "description": "飼い主の「お手」の命令で、片手を上げて飼い主の手のひらに載せる「お手」の仕草。",
+    "category": "positive",
+    "thumbnail": "states/p4.png"
+  },
+
+  "p5": {
+    "name": "ごはん",
+    "description": "食事をする仕草、様子。",
+    "category": "positive",
+    "thumbnail": "states/p5.png"
+  },
+
+  "p6": {
+    "name": "お水",
+    "description": "水を飲む仕草、様子。",
+    "category": "positive",
+    "thumbnail": "states/p6.png"
+  },
+
+  "p7": {
+    "name": "トイレ",
+    "description": "ペット用トイレにお座りした様子。",
+    "category": "positive",
+    "thumbnail": "states/p7.png"
+  },
+
+  "p8": {
+    "name": "持ってこい",
+    "description": "飼い主の「持って来い」の命令で、ボールなどを持ってくる動作。",
+    "category": "positive",
+    "thumbnail": "states/p8.png"
+  },
+
+  "p9": {
+    "name": "ハウス",
+    "description": "ハウス（おうち）に入る仕草、入っている様子。",
+    "category": "positive",
+    "thumbnail": "states/p9.png"
+  },
+
+  "p10": {
+    "name": "ちん",
+    "description": "飼い主の「ちん」の命令で「ちんちん」、「立っち」などの立ち上がりの仕草。",
+    "category": "positive",
+    "thumbnail": "states/p10.png"
+  },
+
+  "p11": {
+    "name": "おふろ",
+    "description": "入浴・ブラッシング等の様子。",
+    "category": "positive",
+    "thumbnail": "states/p11.png"
+  },
+
+  "p12": {
+    "name": "飼い主と心が通じる『魔法のことば』に反応した仕草",
+    "description": "飼い主が設定した『魔法のことば』に反応して、特別な仕草を見せる状態（動作内容はユーザーが自由に記述）。",
+    "description_dog": "飼い主の『魔法のことば』に反応して、犬らしい特別な仕草を見せる（具体的な動作はユーザーが自由に記述）。",
+    "description_cat": "飼い主の『魔法のことば』に反応して、猫らしい特別な仕草を見せる（具体的な動作はユーザーが自由に記述）。",
+    "description_rabbit": "飼い主の『魔法のことば』に反応して、ウサギらしい特別な仕草を見せる（具体的な動作はユーザーが自由に記述）。",
+    "category": "special",
+    "thumbnail": "states/p12.png"
+  }
+}
+

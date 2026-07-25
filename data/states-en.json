@@ -1,0 +1,112 @@
+{
+  "n1": {
+    "name": "Normal",
+    "description": "The pet is in a normal, waiting state.",
+    "category": "neutral",
+    "thumbnail": "states/n1.png"
+  },
+
+  "n2": {
+    "name": "Sitting",
+    "description": "The pet is sitting in place in response to the owner's command to 'sit' or 'stay'.",
+    "category": "neutral",
+    "thumbnail": "states/n2.png"
+  },
+
+  "n3": {
+    "name": "Sleeping",
+    "description": "The pet is bored or sleepy and is lying down to rest or sleep.",
+    "category": "neutral",
+    "thumbnail": "states/n3.png"
+  },
+
+  "p1": {
+    "name": "Playing",
+    "description": "A gesture indicating active behavior such as playing or going for a walk.",
+    "category": "positive",
+    "thumbnail": "states/p1.png"
+  },
+
+  "p2": {
+    "name": "Joy",
+    "description": "State and gestures of joy (details vary depending on the species)",
+    "description_dog": "Expressing joy by wagging its tail vigorously, tilting its ears back slightly, narrowing its eyes, and lightly lifting its front paws, it runs towards its owner as if about to pounce.",
+    "description_cat": "Expressing joy by narrowing its eyes vigorously, holding its tail straight up with a slight wag at the tip, tilting its head to the side, and rubbing its body against its owner.",
+    "description_rabbit": "Expressing joy by shaking its head and ears vigorously, and making a big binky jump by twisting its whole body.",
+    "category": "positive",
+    "thumbnail": "states/p2.png"
+  },
+
+  "p3": {
+    "name": "Down",
+    "description": "The pet is in a down position in response to the owner's command to 'down'.",
+    "category": "positive",
+    "thumbnail": "states/p3.png"
+  },
+
+  "p4": {
+    "name": "Paw",
+    "description": "The gesture of raising one paw and placing it on the owner's palm in response to the owner's command 'paw'.",
+    "category": "positive",
+    "thumbnail": "states/p4.png"
+  },
+
+  "p5": {
+    "name": "Food",
+    "description": "The gesture and appearance of eating.",
+    "category": "positive",
+    "thumbnail": "states/p5.png"
+  },
+
+  "p6": {
+    "name": "Water",
+    "description": "The gesture and appearance of drinking water.",
+    "category": "positive",
+    "thumbnail": "states/p6.png"
+  },
+
+  "p7": {
+    "name": "Toilet",
+    "description": "Sitting on the pet toilet.",
+    "category": "positive",
+    "thumbnail": "states/p7.png"
+  },
+
+  "p8": {
+    "name": "Fetch",
+    "description": "The action of fetching a ball or other object in response to the owner's command to 'fetch'.",
+    "category": "positive",
+    "thumbnail": "states/p8.png"
+  },
+
+  "p9": {
+    "name": "House",
+    "description": "The gesture of entering the house (home), or staying in the crate (cage).",
+    "category": "positive",
+    "thumbnail": "states/p9.png"
+  },
+
+  "p10": {
+    "name": "Chin",
+    "description": "The dog makes gestures of standing up, such as 'Chin Chin' and 'Stand Up,' at the owner's command of 'Chin'.",
+    "category": "positive",
+    "thumbnail": "states/p10.png"
+  },
+
+  "p11": {
+    "name": "Bath",
+    "description": "Scenes from bathing, brushing, etc.",
+    "category": "positive",
+    "thumbnail": "states/p11.png"
+  },
+
+  "p12": {
+    "name": "A gesture in response to the 'magic words' that connect the owner's heart",
+    "description": "A state in which the pet shows a special gesture in response to the 'magic words' set by the owner (the user can freely describe the action).",
+    "description_dog": "A special dog-like gesture in response to the owner's 'magic words' (the user can freely describe the specific action).",
+    "description_cat": "A special cat-like gesture in response to the owner's 'magic words' (the user can freely describe the specific action).",
+    "description_rabbit": "A special rabbit-like gesture in response to the owner's 'magic words' (the user can freely describe the specific action).",
+    "category": "special",
+    "thumbnail": "states/p12.png"
+  }
+}
