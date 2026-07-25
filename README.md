@@ -1,3 +1,6 @@
+# 🐾 **README（更新済み・完全版）**
+
+```markdown
 # 🐾 PetApp2 Portable
 
 AIペットアプリ第2弾 — ユーザー自身のペット画像・動画を登録して楽しめるテンプレート版。  
@@ -72,8 +75,20 @@ PetApp2-portable をベースにした、犬・猫・うさぎの **3つのデ�
 | デモ版名 | ペット種 | リポジトリ | ダウンロード |
 |-----------|-----------|-------------|---------------|
 | PetApp2_shelly | 犬デモ版（シェルティ犬「Shelly」） | https://github.com/usakowhity/PetApp2_shelly | https://github.com/usakowhity/PetApp2_shelly/releases/latest |
-| PetApp2_mimi | 猫デモ版（シャム猫「Mimi」） | https://github.com/usakowhity/PetApp2_mimi | https://github.com/usakowhity/PetApp2_mimi/releases/latest |
-| PetApp2-peter | うさぎデモ版（ネザーランドドワーフ「Peter」） | https://github.com/usakowhity/PetApp2-peter | https://github.com/usakowhity/PetApp2-peter/releases/latest |
+| PetApp2_mimi   | 猫デモ版（シャム猫「Mimi」）        | https://github.com/usakowhity/PetApp2_mimi   | https://github.com/usakowhity/PetApp2_mimi/releases/latest |
+| PetApp2-peter  | うさぎデモ版（ネザーランドドワーフ「Peter」） | https://github.com/usakowhity/PetApp2-peter | https://github.com/usakowhity/PetApp2-peter/releases/latest |
+
+---
+
+## 🔹 PetApp2 国内版 Edition（3種類）
+
+PetApp2 Portable をベースにした **国内版オリジナル Edition** も公開しています。
+
+| Edition名 | ペット種 | 説明 | リポジトリ | ダウンロード |
+|-----------|-----------|-------|-------------|---------------|
+| PetApp2-usako | 白兎（フロスティ） | 英語版 PetApp3-frosty の日本語版 | https://github.com/usakowhity/PetApp2-usako | https://github.com/usakowhity/PetApp2-usako/releases/latest |
+| PetApp2-taro  | ミックス犬タロ | 英語版 PetApp3-taro の日本語版 | https://github.com/usakowhity/PetApp2-taro  | https://github.com/usakowhity/PetApp2-taro/releases/latest |
+| PetApp2-kuro  | 黒兎クロ | 国内向けに新規制作したオリジナル Edition | https://github.com/usakowhity/PetApp2-kuro  | https://github.com/usakowhity/PetApp2-kuro/releases/latest |
 
 ---
 
@@ -110,5 +125,6 @@ usakowhity は、
 
 MIT License  
 Copyright (c) 2024–2026 usakowhity
+```
 
 
