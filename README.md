@@ -1,6 +1,3 @@
-# 🐾 **README（更新済み・完全版）**
-
-```markdown
 # 🐾 PetApp2 Portable
 
 AIペットアプリ第2弾 — ユーザー自身のペット画像・動画を登録して楽しめるテンプレート版。  
@@ -125,6 +122,5 @@ usakowhity は、
 
 MIT License  
 Copyright (c) 2024–2026 usakowhity
-```
 
 
